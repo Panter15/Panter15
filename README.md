@@ -18,16 +18,6 @@ Testing: JUnit, Playwright
 
 Tools: Git, Docker, Maven, IntelliJ, Postman
 
-📌 Featured Projects
-
-🔗 NomadLink - Backend
-
-Spring Boot 6 + GraphQL backend for a digital nomad resource platform.
-
-🔗 NomadLink - Frontend
-
-Angular 19 client consuming GraphQL APIs with PrimeNG UI components.
-
 📈 Currently Learning
 
 Advanced GraphQL patterns
