@@ -4,7 +4,7 @@ Fullstack Software Engineer | Angular 19 • Java 17 • Spring Boot 6 • Graph
 
 🚀 About Me
 
-I'm a fullstack developer passionate about building scalable, intuitive, and modern web applications. My background started in network engineering, and I’ve transitioned into fullstack development—focusing on clean architecture, component reuse, and strong backend services. I enjoy working on meaningful products and am currently building NomadLink, a platform for digital nomads.
+I'm a fullstack developer passionate about building scalable, intuitive, and modern web applications. My background started in network engineering, and I’ve transitioned into fullstack development focusing on clean architecture, component reuse, and strong backend services. I enjoy working on meaningful products and am currently building NomadLink, a platform for digital nomads.
 
 🛠 Tech Stack
 
