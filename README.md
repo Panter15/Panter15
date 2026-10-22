@@ -1,30 +1,35 @@
-👋 Hi, I'm Luis Portilla
+## Luis Portilla
 
-Fullstack Software Engineer | Angular 19 • Java 17 • Spring Boot 6 • GraphQL • PostgreSQL
+**Full Stack Software Engineer | Java · Spring Boot · Angular**
 
-🚀 About Me
+Software engineer building enterprise web applications. Experience includes migrating 30+ legacy JSP modules to
+Angular, building a reusable PrimeNG component library, and developing Spring Boot services, GraphQL APIs and
+GitHub Actions CI/CD pipelines. Background in network engineering. Currently expanding expertise in cloud
+infrastructure and DevOps.
 
-I'm a fullstack developer passionate about building scalable, intuitive, and modern web applications. My background started in network engineering, and I’ve transitioned into fullstack development focusing on clean architecture, component reuse, and strong backend services. I enjoy working on meaningful products and am currently building NomadLink, a platform for digital nomads.
+### Featured Projects
 
-🛠 Tech Stack
+- **[Easytravel Visa](https://github.com/Panter15/norte-visa-agency-backend)**: full stack platform for a visa-advisory
+  agency. Spring Boot and PostgreSQL API with JWT authentication, Flyway migrations, database-enforced consent records,
+  a WhatsApp FAQ bot on Meta's Cloud API, Testcontainers integration tests, Docker and CI. Angular 20 frontend
+  ([visa-agency-fe](https://github.com/Panter15/visa-agency-fe)).
+- **[Danza Folclor](https://github.com/Panter15/danza-folclor)**: bilingual animated landing page for a Colombian folk
+  dance group (Next.js, GSAP).
 
-Frontend: Angular 19, TypeScript, Bootstrap 5, PrimeNG
+### Technical Skills
 
-Backend: Spring Boot 6, Java 17, Spring for GraphQL, REST
+| Area | Technologies |
+|---|---|
+| **Backend** | Java 17, Spring Boot, Spring Security (JWT), JPA/Hibernate, REST, GraphQL |
+| **Frontend** | Angular, TypeScript, PrimeNG, React |
+| **Data** | PostgreSQL, MySQL, Flyway |
+| **Testing** | JUnit, Mockito, Testcontainers, Playwright, Cucumber |
+| **Cloud & DevOps** | AWS (Certified Cloud Practitioner), Docker, Terraform, GitHub Actions |
 
-Database: PostgreSQL, MySQL
+### Current Focus
 
-Testing: JUnit, Playwright
+Kubernetes, AWS, system design.
 
-Tools: Git, Docker, Maven, IntelliJ, Postman
+### Contact
 
-📈 Currently Learning
-
-Advanced GraphQL patterns
-
-Cloud-native architectures (Spring Cloud, AWS)
-
-📬 Let's Connect
-
-"I believe in building software that empowers people and improves lives—one feature at a time."
-
+[LinkedIn](https://www.linkedin.com/in/luis-portilla)
