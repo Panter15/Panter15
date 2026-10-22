@@ -7,6 +7,18 @@ Angular, building a reusable PrimeNG component library, and developing Spring Bo
 GitHub Actions CI/CD pipelines. Background in network engineering. Currently expanding expertise in cloud
 infrastructure and DevOps.
 
+### Experience Highlights
+
+- **CI/CD:** built GitHub Actions pipelines triggered on pull requests, running automated tests, OWASP dependency
+  scanning, dependency caching, and test reports with failure notifications; deployments promoted across dev, QA and
+  production, with manual approval before production.
+- **Infrastructure as Code:** wrote Terraform configurations for the client's own servers and infrastructure, with
+  `terraform plan` running in the pipeline for every environment.
+- **Frontend modernization:** migrated 30+ legacy JSP modules to Angular (page loads under 0.5 s) and built a reusable
+  PrimeNG component library.
+- **Backend and quality:** developed Spring Boot services and GraphQL APIs, wrote Playwright UI test suites, and
+  diagnosed and fixed production issues in a global application.
+
 ### Featured Projects
 
 - **[Easytravel Visa](https://github.com/Panter15/norte-visa-agency-backend)**: full stack platform for a visa-advisory
